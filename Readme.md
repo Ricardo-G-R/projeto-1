@@ -9,7 +9,7 @@ Projeto construido para um pequeno desafio no basico de HTMl e CSS
 
 <a 
     target="_blank"
-    href="https://ricardo-g-r.github.io/Moveis-para-voce/">Clique aqui para acessar
+    href="https://ricardo-g-r.github.io/projeto-1/">Clique aqui para acessar
 </a>
 
 ## ⚙ Tecnologias
